@@ -1,6 +1,6 @@
 # RcLootCouncil-3.3.5a
 
-> ♻️ **Re-upload / mirror — not my work.** Kept by the **RATS** guild only as a backup copy. Full credit to the original authors:
+> ♻️ **Re-upload / mirror — not my work.** Re-hosted only as a backup copy. Full credit to the original authors:
 > - **3.3.5a backport** by **Zin** — upstream: https://github.com/broizter/RcLootCouncil-3.3.5a
 > - **RCLootCouncil** (original) by **Potdisc** — https://github.com/evil-morfar/RCLootCouncil
 >
